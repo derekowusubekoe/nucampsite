@@ -10,6 +10,9 @@ h2{
 header h2 {
     color: #CEC8FF;
 }
+.navbar{
+    background-color: #901cad;
+}
 
 footer {
     background-image: linear-gradient(#CEC8FF, white);
@@ -20,6 +23,7 @@ footer {
     padding: 30px;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
+    margin: 0;
 }
 
 .row-content {
